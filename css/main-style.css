@@ -2727,6 +2727,7 @@ body.chalet
     margin-top: 45px;
 }
 .adv > .container-xl > .row > div:first-child > img {
+    display: block !important;
     width: 470px;
     height: 300px;
     margin: auto;
